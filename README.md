@@ -1,2 +1,1 @@
-# magnushjorth.github.io
-personal website
+﻿ Dette er min portfolio
